@@ -1,3 +1,3 @@
-const outputMessage = require("./message.js")
+import outputMessage from "./message.js"
 
 outputMessage("Ciao Bernard!")
